@@ -1,0 +1,3 @@
+{"username":"student1","password":"pass123","fullName":"Saipriya Sharma","email":"sai@email.com","attempts":[{"subject":"Data Structures","score":9,"date":"2026-05-15 14:03"}]}
+{"username":"student2","password":"java2024","fullName":"Rahul Verma","email":"rahul@email.com","attempts":[]}
+{"username":"admin","password":"admin123","fullName":"Admin User","email":"admin@exam.com","attempts":[]}
