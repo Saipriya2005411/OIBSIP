@@ -1,0 +1,5 @@
+{"userId":"user01","pin":"1234","holderName":"Saipriya","balance":50000.0,"history":["Account opened with balance: ₹50000.00"]}
+{"userId":"user02","pin":"5678","holderName":"Vishal","balance":25000.0,"history":["Account opened with balance: ₹25000.00"]}
+{"userId":"user03","pin":"9999","holderName":"Shaaya","balance":75000.0,"history":["Account opened with balance: ₹75000.00"]}
+{"userId":"123","pin":"0420","holderName":"ch saipriya patra","balance":500.0,"history":["Account opened with balance: ₹500.00"]}
+{"userId":"1709","pin":"0000","holderName":"Ch Saipriya Patra","balance":80.0,"history":["Account opened with balance: ₹40.00","DEPOSIT    + ₹50.00   |  Balance: ₹90.00","WITHDRAWAL - ₹10.00   |  Balance: ₹80.00"]}
